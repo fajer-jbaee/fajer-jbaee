@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fajr jbaee </h1>
+<h1 align="center">👋 Hi, I'm Fajer jbaee </h1>
 
 <p align="center">
   💻 Frontend Developer |<br>
